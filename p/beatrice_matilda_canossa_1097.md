@@ -1,14 +1,14 @@
-# Count Bonifacio of Brescia
+# Beatrice 
 
-### 1101
+### 1097
 
-![Bonifacio_Matilda_Canossa_1101](i/bonifacio_matilda_canossa_1101.jpg)
+![Beatrice_Matilda_Canossa_1097](i\beatrice_matilda_canossa_1097.jpg)
 
 
 
 ## LIFE
 
-21.06.1084			
+28.12.1070
 
 ## HOUSE
 
@@ -20,8 +20,7 @@ Lucca
 
 ## TITLES 
 
-- County of Brescia (inherited 16.01.1999)
-- County of Ferrara (inherited 16.01.1999)
+
 
 ## PARENTS
 
@@ -37,13 +36,17 @@ Lucca
 
 ## SPOUSES
 
-- Asta Palsdatter
+- Vladislav
+- Otakar Premyslid (matrilineal)
 
 ## CHILDREN
 
+- Raimondo
+- Sesto
+
 ## FAMILY TREE
 
-- Bonifacio
+- Beatrice
   - Nuno
   - Matilda
     - Bonifacio IV

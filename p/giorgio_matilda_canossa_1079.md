@@ -1,8 +1,8 @@
-# Duke Giorgio of Upper Lorraine
+# Count Giorgio of Puttlingen
 
-### 1101
+### 1123
 
-![Giorgio_Matilda_Canossa_1101](i/giorgio_matilda_canossa_1101.jpg)
+![Giorgio_Matilda_Canossa_1101](i/giorgio_matilda_canossa_1123.jpg)
 
 ## LIFE
 
@@ -18,9 +18,9 @@ Lucca
 
 ## TITLES 
 
-- Duchy of Upper Lorraine (inherited 16.01.1999)
+- Duchy of Upper Lorraine (inherited 16.01.1999 - conquered by claimant 14.10.1108)
 - County of Puttlingen (granted 16.12.1096)
-- County of Metz (granted 16.12.1096)
+- County of Metz (granted 16.12.1096 - revoked 07.07.1115)
 
 ## VASSALS
 
@@ -28,6 +28,10 @@ Lucca
 
 - Count Dietrich of Nancy (inherited 9.8.1081)
 - Count Karlmann of Saarbrücken (inherited 26.09.1091 )
+
+### 1108
+
+None
 
 ## PARENTS
 
@@ -43,11 +47,32 @@ Lucca
 
 ## SPOUSES
 
-- Duchess Stephania of Upper Lorraine
+- Stephania
 
 ## CHILDREN
 
-- Francesco di Canossa
+- Francesco
+- Matilda
+- Lidia
+- Giorgio
+- Clotilde
 
-### 
+## OTHER PHOTOS
 
+### 1101
+
+![Giorgio_Matilda_Canossa_1101](i/giorgio_matilda_canossa_1101.jpg)
+
+
+
+## FAMILY TREE
+
+- Giorgio
+  - Nuno
+  - Matilda
+    - Bonifacio IV
+      - Tedaldo
+      - Willa Bosonid 
+    - Beatrix
+      - Friedrich II
+      - Mathilda Konradiner

@@ -1,8 +1,18 @@
-# Duke Francesco of West Franconia
+# Count Francesco of Vaihingen
 
-### 1101
 
-![Francesco_Matilda_Canossa_1101](i/francesco_matilda_canossa_1101.jpg)
+
+
+
+### 1123
+
+![Francesco_Matilda_Canossa_1123](i/francesco_matilda_canossa_1123.jpg)
+
+
+
+
+
+## 
 
 ## LIFE
 
@@ -18,7 +28,7 @@ Lucca
 
 ## TITLES 
 
-- Duchy of West Franconia (inherited 16.01.1999)
+- Duchy of West Franconia (inherited 16.01.1999 - conquered by claimant 30.12.1101)
 - County of Vaihingen (granted 16.12.1096)
 - County of Speyer (granted 16.12.1096)
 
@@ -45,11 +55,24 @@ Lucca
 
 ## SPOUSES
 
-- Duchess Berta of West Franconia
+- Berta
 
 ## CHILDREN
 
-- Alvise di Canossa
+- Alvise
 
-### 
+### OTHER PHOTOS
 
+![Francesco_Matilda_Canossa_1101](i/francesco_matilda_canossa_1101.jpg)
+
+## FAMILY TREE
+
+- Giorgio
+  - Nuno
+  - Matilda
+    - Bonifacio IV
+      - Tedaldo
+      - Willa Bosonid 
+    - Beatrix
+      - Friedrich II
+      - Mathilda Konradiner

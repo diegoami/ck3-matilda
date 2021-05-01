@@ -72,15 +72,32 @@ Lucca
 
 ## CHILDREN
 
-- Beatrice di Canossa
-- [Alarico di Canossa](alarico_matilda_canossa_1077.md)
-- [Giorgio di Canossa](giorgio_matilda_canossa_1079.md)
-- [Francesco di Canossa](francesco_matilda_canossa_1080.md)
-- [Bonifacio di Canossa](bonifacio_matilda_canossa_1084.md)
-- [Fabrizio di Canossa](fabrizio_matilda_canossa_1086.md)
+- Beatrice 
+- [Alarico](alarico_matilda_canossa_1077.md)
+- [Giorgio](giorgio_matilda_canossa_1079.md)
+- [Francesco](francesco_matilda_canossa_1080.md)
+- [Bonifacio](bonifacio_matilda_canossa_1084.md)
+- [Fabrizio](fabrizio_matilda_canossa_1086.md)
 
 ## OTHER PHOTOS
 
 ### 1097
 
 ![matilda_bonifacio_canossa_1097](i/matilda_bonifacio_canossa_1097.jpg)
+
+
+
+## FAMILY TREE
+
+- Matilda
+  - Bonifacio IV
+    - Tedaldo
+    - Willa Bosonid 
+  - Beatrix
+    - Friedrich II
+    - Mathilda Konradiner
+
+## MAPS
+
+![Matilda_1097](m/matilda_tuscany_1097.jpg)
+

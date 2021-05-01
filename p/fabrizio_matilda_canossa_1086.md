@@ -42,5 +42,15 @@ Lucca
 
 
 
-### 
+## FAMILY TREE
+
+- Fabrizio
+  - Nuno
+  - Matilda
+    - Bonifacio IV
+      - Tedaldo
+      - Willa Bosonid 
+    - Beatrix
+      - Friedrich II
+      - Mathilda Konradiner
 
