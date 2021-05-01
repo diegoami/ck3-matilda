@@ -2,7 +2,7 @@
 
 ### 1097
 
-![Beatrice_Matilda_Canossa_1097](i\beatrice_matilda_canossa_1097.jpg)
+![Beatrice_Matilda_Canossa_1097](i/beatrice_matilda_canossa_1097.jpg)
 
 
 
