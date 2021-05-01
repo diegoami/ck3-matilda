@@ -49,7 +49,5 @@ Lucca
 
 - Francesco di Canossa
 
-## OTHER PHOTOS
-
-### 1097
+### 
 
