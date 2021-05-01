@@ -75,7 +75,5 @@ Lucca
 
 - Alarico di Canossa
 
-## OTHER PHOTOS
 
-### 1097
 
