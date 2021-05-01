@@ -72,7 +72,7 @@ Lucca
 
 ## CHILDREN
 
-- Beatrice 
+- [Beatrice](beatrice_matilda_canossa_1070.md)
 - [Alarico](alarico_matilda_canossa_1077.md)
 - [Giorgio](giorgio_matilda_canossa_1079.md)
 - [Francesco](francesco_matilda_canossa_1080.md)
