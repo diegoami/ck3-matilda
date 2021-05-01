@@ -2,7 +2,7 @@
 
 ### 1101
 
-![Francesco_Matilda_Canossa_1101](C:\Users\diego\ck3aars\ck3-matilda\p\i\francesco_matilda_canossa_1101.jpg)
+![Francesco_Matilda_Canossa_1101](i/francesco_matilda_canossa_1101.jpg)
 
 ## LIFE
 
