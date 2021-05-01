@@ -6,7 +6,7 @@
 
 ## LIFE
 
-01.03.1046-
+01.03.1046-16.01.1999
 
 ## HOUSE
 
@@ -33,6 +33,8 @@ Lucca
 
 ## VASSALS
 
+### 1097
+
 - Count Vitale of Fermo (1060- )
 - Count Arduino of Parma (1052-1078)
   - Count Oberto of Parma (1078-1086)
@@ -47,7 +49,7 @@ Lucca
 - Count Dietrich of Nancy (1092-)
 - Count Raniero 'the Foolish' of Capua (1090-)
 - Count Sighard of Kaiserslautern (1092-)
-- Count Ferdinand of Colmar (~1081_1092 ?  )
+- Count Ferdinand of Colmar 1081- )
 - Count Karlmann of Saarbrücken ( 1092 )
 - Count Francesco of Vaihingen (16.12.1096)
 - Count Giorgio of Puttlingen  (16.12.1096)
@@ -71,7 +73,7 @@ Lucca
 ## CHILDREN
 
 - Beatrice di Canossa
-- Alarico di Canossa
+- [Alarico di Canossa](alarico_matilda_canossa_1077.md)
 - Count Giorgio of Puttlingen
 - Count Francesco of Vaihingen
 - Bonifacio di Canossa
