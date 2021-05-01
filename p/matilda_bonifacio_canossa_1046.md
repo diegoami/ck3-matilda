@@ -74,10 +74,10 @@ Lucca
 
 - Beatrice di Canossa
 - [Alarico di Canossa](alarico_matilda_canossa_1077.md)
-- Count Giorgio of Puttlingen
-- Count Francesco of Vaihingen
-- Bonifacio di Canossa
-- Fabrizio di Canossa
+- [Giorgio di Canossa](giorgio_matilda_canossa_1079.md)
+- [Francesco di Canossa](francesco_matilde_canossa_1080.md)
+- [Bonifacio di Canossa](bonifacio_matilda_canossa_1084.md)
+- [Fabrizio di Canossa](fabrizio_matilda_canossa_1086.md)
 
 ## OTHER PHOTOS
 
